@@ -55,7 +55,12 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![WhatsApp Image 2024-12-12 at 22 19 15_eea0819a](https://github.com/user-attachments/assets/6a76e9a0-f87d-4e30-8136-b3b7375ce045)
+![WhatsApp Image 2024-12-12 at 22 19 16_790c63a1](https://github.com/user-attachments/assets/72038c4c-89a1-4c83-8c59-a3da255e89c2)
 
 **Output/TIMING Waveform**
+![WhatsApp Image 2024-12-12 at 22 19 21_19bd719c](https://github.com/user-attachments/assets/25f9a704-f4a8-465e-888a-b8fc3dd75006)
+![WhatsApp Image 2024-12-12 at 22 19 25_ea12b3d4](https://github.com/user-attachments/assets/d340811e-e769-4b11-bb79-300c000e69d8)
 
 **Result:**
+A half adder and a half subtractor are fundamental digital circuits used for performing basic arithmetic operations on binary numbers. Below, I'll explain the results of both circuits in terms of their functions, truth tables, and corresponding Boolean expressions.
